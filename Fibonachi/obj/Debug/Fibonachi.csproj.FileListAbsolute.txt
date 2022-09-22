@@ -1,0 +1,6 @@
+C:\Users\Xem\Documents\LAB IPZ\LAb1\Zavdanya2\Fibonachi\bin\Debug\Fibonachi.exe
+C:\Users\Xem\Documents\LAB IPZ\LAb1\Zavdanya2\Fibonachi\bin\Debug\Fibonachi.pdb
+C:\Users\Xem\Documents\LAB IPZ\LAb1\Zavdanya2\Fibonachi\obj\Debug\Fibonachi.csproj.AssemblyReference.cache
+C:\Users\Xem\Documents\LAB IPZ\LAb1\Zavdanya2\Fibonachi\obj\Debug\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Xem\Documents\LAB IPZ\LAb1\Zavdanya2\Fibonachi\obj\Debug\Fibonachi.exe
+C:\Users\Xem\Documents\LAB IPZ\LAb1\Zavdanya2\Fibonachi\obj\Debug\Fibonachi.pdb
